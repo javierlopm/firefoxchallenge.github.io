@@ -1,0 +1,8 @@
+{
+	"name":"Aplicacion de Javier",
+	"discription": "Esto sirveeee culo",
+	"launch_path":"/index.html",
+	"icons":{"128":"/nico.png"},
+	"versions":"0.1",
+	"developer": {"name": "Javier Lopez"}
+}
